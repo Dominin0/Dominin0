@@ -11,11 +11,3 @@
 </p> 
 
 <hr>
-
-## whatever is this
-
-<button onclick="document.getElementById('myImage').src='https://minecraft.wiki/w/File:On_Furnace_(front_texture)_JE2_BE2.png#/media/File:On_Furnace_(front_texture)_JE2_BE2.png'">Turn on the light</button>
-
-<img id="myImage" src="https://minecraft.wiki/w/File:Off_Furnace_(front_texture)_JE2_BE2.png#/media/File:Off_Furnace_(front_texture)_JE2_BE2.png" style="width:100px">
-
-<button onclick="document.getElementById('myImage').src='https://minecraft.wiki/w/File:Off_Furnace_(front_texture)_JE2_BE2.png#/media/File:Off_Furnace_(front_texture)_JE2_BE2.png'">Turn off the light</button>
