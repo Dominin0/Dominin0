@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <br> 
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js" /> 
+</p> 
+
+<hr>
